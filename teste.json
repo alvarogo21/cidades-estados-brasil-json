@@ -1,5 +1,4 @@
-{
-rests: [
-       {username: 'alvaro', password: 'alvaro'}, 
-]
-}
+[{
+	"username": "alvaro",
+	"password": "alvaro"
+}]
