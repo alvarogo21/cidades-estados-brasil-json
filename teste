@@ -1,0 +1,5 @@
+{
+rests: [
+       {username: 'alvaro', password: 'alvaro'}, 
+]
+}
